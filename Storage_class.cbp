@@ -2,9 +2,7 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="Storage_class" />
-		<Option pch_mode="2" />
-		<Option compiler="gcc" />
+	
 		<Build>
 			<Target title="Debug">
 				<Option output="bin/Debug/Storage_class" prefix_auto="1" extension_auto="1" />
